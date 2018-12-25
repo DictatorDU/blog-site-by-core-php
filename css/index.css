@@ -1,0 +1,3 @@
+.pagination{display: block;font-size: 20px;margin-top: 10px;padding: 10px;text-align: center}
+.pagination a{background:#E6AF4B;text-decoration: none;border: 2px solid #CA932F;padding: 3px 7px;margin-left: 2px;border-radius: 5px;}
+.pagination a:hover{background: #CA932F;color:#fff}
